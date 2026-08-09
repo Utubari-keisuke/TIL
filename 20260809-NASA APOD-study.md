@@ -1,4 +1,4 @@
-NASA APOD Discord自動通知Bot開発とGitHub連携 (2026-08-09)
+# NASA APOD Discord自動通知Bot開発とGitHub連携 (2026-08-09)
 
 ## 🌌 プロジェクト概要
 NASAの「Astronomy Picture of the Day (APOD)」APIから毎日の天体写真と解説を取得し、Google翻訳APIを経由して日本語化した上で、Discordへ自動配信するRubyスクリプトを構築・公開した。
