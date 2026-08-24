@@ -10,7 +10,7 @@
 
 ## 1. いて座A* と「S星群（S-stars）」の基本環境
 <img width="1280" height="1482" alt="star-s301-eso-2026-08-21-1" src="https://github.com/user-attachments/assets/59cdb52e-98b9-4530-8395-9628766f62b8" />
-<br>
+<br><br>
 <p align="center">
   <a href="https://youtu.be/PR4EzyUv_fs" target="_blank">
     <img src="https://i.ytimg.com/vi/PR4EzyUv_fs/hqdefault.jpg" width="560" alt="Artist’s animation of S2’s precession effect">
@@ -60,17 +60,15 @@
 - 2020年のノーベル物理学賞（ゲンツェル氏・ゲズ氏）の対象となったS星群の追跡が、補償光学（AO）や干渉計（GRAVITY+等）の進化によってさらに高精度化し、未踏だった「自転の直接幾何測定」に到達しつつある点に観測技術の進歩の凄みを感じる。
 - 一般相対論の数学的厳密解（カー計量）が、地球から約2万7000光年離れた天の川銀河中心のたった数個の星の運動データから直接テストされるというスケール感は、理論物理と天文学の美しい交差点である。
 
-*天の川銀河の中心にある恒星の動きから一般相対性理論の正しさを検証<https://sorae.info/astronomy/20200418-sgra-s2.html>
-
-
+  <br><br>
 <p align="center">
-  <a href="https://youtu.be/iEBx0MA-ry8" target="_blank">
-    <img src="https://i.ytimg.com/vi/iEBx0MA-ry8/mqdefault.jpg" width="560" alt="Lense-Thirring effect animation">
+  <a href="https://youtu.be/iEBxOMA-ry8" target="_blank">
+    <img src="https://i.ytimg.com/vi/iEBxOMA-ry8/hqdefault.jpg" width="560" alt="Lense-Thirring effect animation">
   </a>
   <br>
   <em>【▲ レンス・ティリング効果によってブラックホール周囲の時空が回転する様子を示した動画 (ESO/M. Kornmesser)】</em>
 </p>
-
+  <br>
 <p align="center">
   <a href="https://youtu.be/L8HZ-gynPyc" target="_blank">
     <img src="https://i.ytimg.com/vi/L8HZ-gynPyc/hqdefault.jpg" width="560" alt="Timelapse of S301 orbiting Sagittarius A*">
@@ -78,3 +76,11 @@
   <br>
   <em>【▲ いて座A*を周回するS301の動きを示したタイムラプス (Credit: ESO/GRAVITY collaboration/L. Calçada)】</em>
 </p>
+
+  <br><br>
+> [!NOTE]
+> **関連記事 (Related Article)**
+> 
+> 🔗 [天の川銀河の中心にある恒星の動きから一般相対性理論の正しさを検証 (sorae)](https://sorae.info/astronomy/20200418-sgra-s2.html)
+> *S2の軌道観測データと一般相対性理論（シュワルツシルト歳差）の検証に関する解説記事*
+
