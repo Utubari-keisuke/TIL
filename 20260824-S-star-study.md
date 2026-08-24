@@ -62,3 +62,19 @@
 
 *天の川銀河の中心にある恒星の動きから一般相対性理論の正しさを検証<https://sorae.info/astronomy/20200418-sgra-s2.html>
 
+
+<p align="center">
+  <a href="https://youtu.be/iEBx0MA-ry8" target="_blank">
+    <img src="https://i.ytimg.com/vi/iEBx0MA-ry8/mqdefault.jpg" width="560" alt="Lense-Thirring effect animation">
+  </a>
+  <br>
+  <em>【▲ レンス・ティリング効果によってブラックホール周囲の時空が回転する様子を示した動画 (ESO/M. Kornmesser)】</em>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/L8HZ-gynPyc" target="_blank">
+    <img src="https://i.ytimg.com/vi/L8HZ-gynPyc/hqdefault.jpg" width="560" alt="Timelapse of S301 orbiting Sagittarius A*">
+  </a>
+  <br>
+  <em>【▲ いて座A*を周回するS301の動きを示したタイムラプス (Credit: ESO/GRAVITY collaboration/L. Calçada)】</em>
+</p>
