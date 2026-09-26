@@ -1,4 +1,4 @@
-# [TIL] 2026-09-27: Poimandresが公開したWebゲーム・アニメーション向け数学エンジン「math」の設計思想
+#  Poimandresが公開したWebゲーム・アニメーション向け数学エンジン「math」の設計思想
 
 ## 概要 (Summary)
 
