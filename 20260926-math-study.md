@@ -70,7 +70,7 @@ WebGPUやコンピュートシェーダーを扱う際、重厚なクラスイ�
 
 > [!NOTE]
 > 🔗 [Poimandres、Webゲームやアニメーション向けのJS／TSライブラリ「math」を公開 (gihyo.jp)](https://gihyo.jp/article/2026/09/pmndrs-math)  
-> 🔗 [GitHub - pmndrs/math: The playful web's math engine](https://github.com/pmndrs/math)
+> 🔗 [GitHub - pmndrs/math: The playful web's math engine](https://github.com/Utubari-keisuke/TIL/tree/main)
 
 ---
 
